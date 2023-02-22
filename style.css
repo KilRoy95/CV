@@ -33,6 +33,16 @@ aside{
     border: 3px solid green;
 }
 
+.aside-boxes{
+    border: 1px solid black;
+    margin: 0.5rem;
+
+}
+
+.aside-boxes h2{
+    text-align: center;
+}
+
 main{
     grid-area: main;
     border: 3px solid blue;
